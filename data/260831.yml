@@ -1,0 +1,53 @@
+about:
+  description: Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+  license: NOASSERTION
+  homepage: https://www.postman.com
+  head: f80b1e9
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-31T06:05:17Z
+timeline:
+  created: 2011-06-20
+  lastCommit: 2026-03-03
+  lastRelease: ?
+popularity:
+  star: 6020
+  watcher: 287
+  fork: 889
+  release: 0
+  contributor: 53
+  pullRequest: 52
+  issue: 13999
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 10
+    openIssue: 29
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 35
+    openIssue: 75
+    commit: 0
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 78
+    openIssue: 183
+    commit: 0
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 1
+    openPR: 2
+    closedIssue: 179
+    openIssue: 330
+    commit: 1
