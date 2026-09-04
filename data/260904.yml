@@ -7,7 +7,7 @@ about:
   head: f80b1e9
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:59:27Z
+  collectedAt: 2026-09-04T20:39:22Z
 timeline:
   created: 2011-06-20
   lastCommit: 2026-03-03
@@ -60,7 +60,7 @@ recent:
     openPR: 2
     closedIssue: 185
     openIssue: 339
-    commit: 0
+    commit: 1
   last720d:
     since: 2024-09-14
     release: 0
@@ -77,6 +77,19 @@ total:
   openIssue: 3114
   commit: 192
 ---
+path: /home/runner/.x-repo/github.com/postmanlabs/postman-app-support
+collectedAt: 2026-09-04T20:39:23Z
+loc:
+  Markdown:
+    code: 0
+    comments: 504
+    blanks: 122
+    files: 22
+total:
+  code: 0
+  comments: 504
+  blanks: 122
+  files: 22
 ---
 date: "2026-08-24"
 repo:
