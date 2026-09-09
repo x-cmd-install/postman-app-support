@@ -7,7 +7,7 @@ Postman is an API platform for building and using APIs. Postman simplifies each 
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-03-03
 - **License**: NOASSERTION
-- **Stars**: 6023 · **Forks**: 889 · **Open issues**: 14016 · **Contributors**: 53
+- **Stars**: 6022 · **Forks**: 888 · **Open issues**: 14017 · **Contributors**: 53
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/postman-app-support> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:11:24Z._
+_Last regenerated: 2026-09-09T05:07:09Z._
