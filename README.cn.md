@@ -4,7 +4,7 @@
 
 Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 
-![postman-app-support](https://repo.x-cmd.io/postman-app-support.svg)
+![postman-app-support](https://repo.x-cmd.io/postman-app-support.svg?lang=zh)
 
 ## 安装
 
@@ -20,19 +20,19 @@ x install postman-app-support
 
 ## 流行度
 
-- **Star**: 6,021 · **Fork**: 888 · **开放 issue**: 14,020 · **贡献者**: 53
+- **Star**: 6,020 · **Fork**: 888 · **开放 issue**: 14,022 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 5 · **已关闭 issue**: 10901 · **开放 issue**: 3119 · **提交数**: 192
+- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 5 · **已关闭 issue**: 10904 · **开放 issue**: 3118 · **提交数**: 192
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 13 | 36 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 39 | 81 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 2 | 184 | 338 | 1 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 16 | 35 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 42 | 80 | 0 |
+| 360d | 2025-09-15 | 0 | 1 | 2 | 187 | 337 | 1 |
 
 ## OpenSSF Scorecard 评分
 
@@ -53,4 +53,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:05:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:20Z._
