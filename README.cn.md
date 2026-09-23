@@ -4,7 +4,7 @@
 
 Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 
-[![x-cmd/install — postman-app-support Code Quality Monitoring Repo Card](https://repo.x-cmd.io/postman-app-support.svg?lang=zh)](https://x-cmd.com/install/postman-app-support)
+[![x-cmd/install — postman-app-support Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/postman-app-support.svg?lang=zh)](https://x-cmd.com/install/postman-app-support)
 
 ## 安装
 
@@ -34,18 +34,18 @@ x install postman-app-support
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 6 · **已关闭 issue**: 10921 · **开放 issue**: 3113 · **提交数**: 192
+- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 6 · **已关闭 issue**: 10924 · **开放 issue**: 3110 · **提交数**: 192
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 23 | 27 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 34 | 44 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 51 | 74 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 85 | 159 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 3 | 196 | 320 | 1 |
-| last720d | 2024-10-02 | 0 | 1 | 5 | 474 | 641 | 1 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 23 | 24 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 37 | 41 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 54 | 68 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 88 | 156 | 0 |
+| 360d | 2025-09-28 | 0 | 1 | 3 | 199 | 316 | 1 |
+| last720d | 2024-10-03 | 0 | 1 | 5 | 476 | 635 | 1 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:22:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:34:31Z._
