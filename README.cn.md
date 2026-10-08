@@ -14,13 +14,13 @@ x install postman-app-support
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.3 / 10**
+总评分: **3.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -30,22 +30,22 @@ x install postman-app-support
 
 ## 流行度
 
-- **Star**: 6,020 · **Fork**: 889 · **开放 issue**: 14,062 · **贡献者**: 50
+- **Star**: 6,020 · **Fork**: 889 · **开放 issue**: 14,065 · **贡献者**: 50
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 7 · **已关闭 issue**: 10928 · **开放 issue**: 3134 · **提交数**: 192
+- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 7 · **已关闭 issue**: 10935 · **开放 issue**: 3130 · **提交数**: 192
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 2 | 11 | 36 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 2 | 34 | 62 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 2 | 48 | 84 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 2 | 88 | 165 | 0 |
-| 360d | 2025-10-12 | 0 | 1 | 4 | 199 | 326 | 1 |
-| last720d | 2024-10-17 | 0 | 1 | 6 | 467 | 644 | 1 |
+| 30d | 2026-09-08 | 0 | 0 | 2 | 15 | 34 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 2 | 39 | 60 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 2 | 53 | 79 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 2 | 95 | 161 | 0 |
+| 360d | 2025-10-13 | 0 | 1 | 4 | 205 | 321 | 1 |
+| last720d | 2024-10-18 | 0 | 1 | 6 | 474 | 639 | 1 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:20:28Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:37:30Z._
