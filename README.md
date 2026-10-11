@@ -40,12 +40,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 2 | 12 | 34 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 2 | 38 | 59 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 2 | 54 | 80 | 0 |
-| last180d | 2026-04-13 | 0 | 0 | 2 | 96 | 162 | 0 |
-| 360d | 2025-10-15 | 0 | 1 | 4 | 205 | 319 | 1 |
-| last720d | 2024-10-20 | 0 | 1 | 6 | 473 | 640 | 1 |
+| 30d | 2026-09-11 | 0 | 0 | 2 | 12 | 34 | 0 |
+| last60d | 2026-08-12 | 0 | 0 | 2 | 37 | 56 | 0 |
+| 90d | 2026-07-13 | 0 | 0 | 2 | 54 | 77 | 0 |
+| last180d | 2026-04-14 | 0 | 0 | 2 | 94 | 161 | 0 |
+| 360d | 2025-10-16 | 0 | 1 | 4 | 205 | 319 | 1 |
+| last720d | 2024-10-21 | 0 | 1 | 6 | 471 | 638 | 1 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for postman-app-support lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:07:03Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:02:03Z._
