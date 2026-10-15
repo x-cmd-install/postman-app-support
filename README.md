@@ -14,13 +14,13 @@ x install postman-app-support
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
 
 ## Source
 
@@ -30,22 +30,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,022 · **Forks**: 887 · **Open issues**: 14,072 · **Contributors**: 50
+- **Stars**: 6,021 · **Forks**: 886 · **Open issues**: 14,072 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 81 · **Open PRs**: 8 · **Closed issues**: 10937 · **Open issues**: 3135 · **Commits**: 192
+- **Releases**: 0 · **Merged PRs**: 82 · **Open PRs**: 7 · **Closed issues**: 10937 · **Open issues**: 3135 · **Commits**: 194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 3 | 11 | 38 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 3 | 39 | 60 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 3 | 55 | 76 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 3 | 93 | 163 | 0 |
-| 360d | 2025-10-19 | 0 | 1 | 5 | 205 | 321 | 1 |
-| last720d | 2024-10-24 | 0 | 1 | 7 | 470 | 639 | 1 |
+| 30d | 2026-09-15 | 0 | 1 | 2 | 11 | 37 | 0 |
+| last60d | 2026-08-16 | 0 | 1 | 2 | 39 | 60 | 1 |
+| 90d | 2026-07-17 | 0 | 1 | 2 | 55 | 74 | 1 |
+| last180d | 2026-04-18 | 0 | 1 | 2 | 93 | 163 | 1 |
+| 360d | 2025-10-20 | 0 | 2 | 4 | 196 | 315 | 2 |
+| last720d | 2024-10-25 | 0 | 2 | 6 | 470 | 639 | 3 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for postman-app-support lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:17:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:57:54Z._

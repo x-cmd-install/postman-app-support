@@ -14,13 +14,13 @@ x install postman-app-support
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.1 / 10**
+总评分: **4.1 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
 
 ## 源代码
 
@@ -30,22 +30,22 @@ x install postman-app-support
 
 ## 流行度
 
-- **Star**: 6,022 · **Fork**: 887 · **开放 issue**: 14,072 · **贡献者**: 50
+- **Star**: 6,021 · **Fork**: 886 · **开放 issue**: 14,072 · **贡献者**: 51
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 81 · **开放 PR**: 8 · **已关闭 issue**: 10937 · **开放 issue**: 3135 · **提交数**: 192
+- **发布数**: 0 · **已合并 PR**: 82 · **开放 PR**: 7 · **已关闭 issue**: 10937 · **开放 issue**: 3135 · **提交数**: 194
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 3 | 11 | 38 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 3 | 39 | 60 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 3 | 55 | 76 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 3 | 93 | 163 | 0 |
-| 360d | 2025-10-19 | 0 | 1 | 5 | 205 | 321 | 1 |
-| last720d | 2024-10-24 | 0 | 1 | 7 | 470 | 639 | 1 |
+| 30d | 2026-09-15 | 0 | 1 | 2 | 11 | 37 | 0 |
+| last60d | 2026-08-16 | 0 | 1 | 2 | 39 | 60 | 1 |
+| 90d | 2026-07-17 | 0 | 1 | 2 | 55 | 74 | 1 |
+| last180d | 2026-04-18 | 0 | 1 | 2 | 93 | 163 | 1 |
+| 360d | 2025-10-20 | 0 | 2 | 4 | 196 | 315 | 2 |
+| last720d | 2024-10-25 | 0 | 2 | 6 | 470 | 639 | 3 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:17:28Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:57:54Z._
