@@ -30,22 +30,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,020 · **Forks**: 885 · **Open issues**: 14,059 · **Contributors**: 52
+- **Stars**: 6,020 · **Forks**: 886 · **Open issues**: 14,061 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 82 · **Open PRs**: 6 · **Closed issues**: 10935 · **Open issues**: 3124 · **Commits**: 194
+- **Releases**: 0 · **Merged PRs**: 82 · **Open PRs**: 6 · **Closed issues**: 10935 · **Open issues**: 3126 · **Commits**: 194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 1 | 1 | 7 | 25 | 0 |
-| last60d | 2026-08-18 | 0 | 1 | 1 | 36 | 48 | 1 |
-| 90d | 2026-07-19 | 0 | 1 | 1 | 54 | 61 | 1 |
-| last180d | 2026-04-20 | 0 | 1 | 1 | 90 | 150 | 1 |
-| 360d | 2025-10-22 | 0 | 2 | 3 | 192 | 299 | 2 |
-| last720d | 2024-10-27 | 0 | 2 | 5 | 468 | 626 | 3 |
+| 30d | 2026-09-18 | 0 | 0 | 1 | 7 | 26 | 0 |
+| last60d | 2026-08-19 | 0 | 1 | 1 | 36 | 49 | 1 |
+| 90d | 2026-07-20 | 0 | 1 | 1 | 54 | 62 | 1 |
+| last180d | 2026-04-21 | 0 | 1 | 1 | 89 | 152 | 1 |
+| 360d | 2025-10-23 | 0 | 2 | 3 | 190 | 300 | 2 |
+| last720d | 2024-10-28 | 0 | 2 | 5 | 467 | 627 | 3 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for postman-app-support lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:45:41Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:47:39Z._
