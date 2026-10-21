@@ -18,9 +18,9 @@ x install postman-app-support
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -30,22 +30,22 @@ x install postman-app-support
 
 ## 流行度
 
-- **Star**: 6,020 · **Fork**: 886 · **开放 issue**: 14,063 · **贡献者**: 52
+- **Star**: 6,020 · **Fork**: 886 · **开放 issue**: 14,066 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 82 · **开放 PR**: 6 · **已关闭 issue**: 10936 · **开放 issue**: 3127 · **提交数**: 194
+- **发布数**: 0 · **已合并 PR**: 82 · **开放 PR**: 6 · **已关闭 issue**: 10937 · **开放 issue**: 3129 · **提交数**: 194
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 1 | 6 | 28 | 0 |
-| last60d | 2026-08-21 | 0 | 1 | 1 | 35 | 50 | 1 |
-| 90d | 2026-07-22 | 0 | 1 | 1 | 53 | 64 | 1 |
-| last180d | 2026-04-23 | 0 | 1 | 1 | 87 | 150 | 1 |
-| 360d | 2025-10-25 | 0 | 2 | 3 | 187 | 302 | 2 |
-| last720d | 2024-10-30 | 0 | 2 | 5 | 466 | 628 | 3 |
+| 30d | 2026-09-21 | 0 | 0 | 1 | 7 | 28 | 0 |
+| last60d | 2026-08-22 | 0 | 1 | 1 | 35 | 52 | 1 |
+| 90d | 2026-07-23 | 0 | 1 | 1 | 51 | 66 | 1 |
+| last180d | 2026-04-24 | 0 | 1 | 1 | 88 | 150 | 1 |
+| 360d | 2025-10-26 | 0 | 2 | 3 | 188 | 304 | 2 |
+| last720d | 2024-10-31 | 0 | 2 | 5 | 463 | 629 | 3 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:09:43Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:04:25Z._
