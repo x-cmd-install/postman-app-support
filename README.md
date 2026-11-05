@@ -18,9 +18,9 @@ Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
 
 ## Source
 
@@ -30,22 +30,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,024 · **Forks**: 898 · **Open issues**: 14,084 · **Contributors**: 52
+- **Stars**: 6,028 · **Forks**: 897 · **Open issues**: 14,088 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 82 · **Open PRs**: 4 · **Closed issues**: 10948 · **Open issues**: 3136 · **Commits**: 194
+- **Releases**: 0 · **Merged PRs**: 82 · **Open PRs**: 4 · **Closed issues**: 10948 · **Open issues**: 3140 · **Commits**: 194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 9 | 31 | 0 |
-| last60d | 2026-09-05 | 0 | 1 | 1 | 26 | 48 | 1 |
-| 90d | 2026-08-06 | 0 | 1 | 1 | 51 | 72 | 1 |
-| last180d | 2026-05-08 | 0 | 1 | 1 | 88 | 152 | 1 |
-| 360d | 2025-11-09 | 0 | 2 | 3 | 180 | 302 | 2 |
-| last720d | 2024-11-14 | 0 | 2 | 3 | 458 | 617 | 3 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 9 | 34 | 0 |
+| last60d | 2026-09-06 | 0 | 1 | 1 | 26 | 52 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 1 | 50 | 76 | 1 |
+| last180d | 2026-05-09 | 0 | 1 | 1 | 88 | 156 | 1 |
+| 360d | 2025-11-10 | 0 | 2 | 3 | 180 | 305 | 2 |
+| last720d | 2024-11-15 | 0 | 2 | 3 | 457 | 620 | 3 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for postman-app-support lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:45:12Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:10:31Z._
