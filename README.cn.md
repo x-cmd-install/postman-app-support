@@ -14,13 +14,13 @@ x install postman-app-support
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.1 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (4/10) — 2 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 4
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -30,22 +30,22 @@ x install postman-app-support
 
 ## 流行度
 
-- **Star**: 6,029 · **Fork**: 897 · **开放 issue**: 14,108 · **贡献者**: 53
+- **Star**: 6,029 · **Fork**: 898 · **开放 issue**: 14,109 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 82 · **开放 PR**: 4 · **已关闭 issue**: 10952 · **开放 issue**: 3156 · **提交数**: 194
+- **发布数**: 0 · **已合并 PR**: 82 · **开放 PR**: 4 · **已关闭 issue**: 10956 · **开放 issue**: 3153 · **提交数**: 194
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 9 | 39 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 1 | 17 | 64 | 0 |
-| 90d | 2026-08-19 | 0 | 1 | 1 | 47 | 86 | 1 |
-| last180d | 2026-05-21 | 0 | 1 | 1 | 86 | 155 | 1 |
-| 360d | 2025-11-22 | 0 | 2 | 3 | 171 | 314 | 2 |
-| last720d | 2024-11-27 | 0 | 2 | 3 | 449 | 619 | 3 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 8 | 36 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 18 | 63 | 0 |
+| 90d | 2026-08-21 | 0 | 1 | 1 | 48 | 84 | 1 |
+| last180d | 2026-05-23 | 0 | 1 | 1 | 89 | 151 | 1 |
+| 360d | 2025-11-24 | 0 | 2 | 3 | 174 | 308 | 2 |
+| last720d | 2024-11-29 | 0 | 2 | 3 | 452 | 614 | 3 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ postman-app-support 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:44:33Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:25:10Z._
